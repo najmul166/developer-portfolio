@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    font-family: 'Poppins',sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.paragraph-content {
+    padding-bottom: 80px;
+    color: rgb(56, 47, 56);
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.onethird-width{
+    width:25%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    border-radius: 10px;
+}
+
+
+.container{
+    padding: 2px 2px 2px 2px;
+}
+
+
+p{
+    color: dimgray;
+}
+h1{
+    font-size: 50px;
+}
+h1 span{
+    color: orange;
+}
+.half-width img{
+    width: 100%;
+}
+
+h2{
+    font-size: 40px;
+}
+.my-area{
+    background-image: url("images/7.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.working-project {
+    height: 500px;
+    width: 100%;
+    background: white;
+    margin-bottom: 5px;
+    padding-left: 2%;
+    
+}
+
+.working-project h1 {
+    margin-bottom: 50px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.single-work {
+    background: rgb(192, 176, 176);
+    width: 30%;
+    padding: 10px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 30px;
+    box-shadow: 5px 7px 40px gray;
+}
+
+.single-work img{
+    height: 100%;
+    width: 100%;
+}
+
+.single-work h3 {
+    color: rgb(16, 24, 94);
+}
+
+
+.projects {
+    height: 80px;
+    background: plum;
+    margin-top: 30px;
+    padding: 20px 2px 2px 10px;
+
+}
+
+.projects-div {
+    float: left;
+    margin-left: 16%;
+    color: white;
+}
+.projects-div h3 {
+    text-align: center;
+}
+
+.projects-div span {
+    font-size: 22px;
+}
+footer{
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height: 200px;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+
+
